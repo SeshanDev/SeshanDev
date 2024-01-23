@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Seshan Nethmika</h1>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://seshandev.github.io/SeshanNethmika.github.io/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
