@@ -1,4 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Seshan Nethmika</h1>
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <h3 align="center">I'm passionate about creating innovative and user-centric web and mobile applications. I thrive in the dynamic world of technology, constantly seeking opportunities to expand my skill set and contribute to impactful projects.</h3>
 
 - 🌱 I’m currently learning **Laravel,Flutter,Angular,React**
