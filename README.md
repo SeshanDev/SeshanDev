@@ -35,7 +35,6 @@
 ###Seshan's GitHub Activity Graph
 
 | ![SeshanDev's github stats](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&theme=merko) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeshanDev&theme=tokyonight) |
-| --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeshanDev&theme=tokyonight) 
 
 
