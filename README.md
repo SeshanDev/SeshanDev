@@ -30,27 +30,15 @@
 
 
 
-[![SeshanDev's github stats](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeshanDev&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
   
 ###Seshan's GitHub Activity Graph
 
 | ![SeshanDev's github stats](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&theme=merko) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeshanDev&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeshanDev&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeshanDev&theme=tokyonight) 
 
 
 <br>
 
-<br>
-  
-###Seshan's GitHub Activity Graph
-
-| ![github stats](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeshanDev&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeshanDev&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
-
-
-<br>
 
