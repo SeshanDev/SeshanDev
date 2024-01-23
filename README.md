@@ -25,7 +25,7 @@
 
 <br>
   
-[![Seshan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664SeshanDev&theme=tokyonight)](https://git.io/praveenscience)
+[![###Seshan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SeshanDev&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Seshan's github stats](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeshanDev&theme=tokyonight) |
 | --- | --- |
