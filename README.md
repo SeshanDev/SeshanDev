@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi there 👋<br> I'm Seshan Nethmika</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> <br> I'm Seshan Nethmika</h1>
 <div align="center">
   <a href="https://seshandev.github.io/SeshanNethmika.github.io/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
