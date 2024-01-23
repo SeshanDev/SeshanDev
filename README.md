@@ -25,9 +25,9 @@
 
 <br>
   
-[![Seshan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SeshanDev&theme=tokyonight)](https://seshandev.github.io/SeshanNethmika.github.io/)
+###Seshan's GitHub Activity Graph
 
-| ![Seshan's github stats](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeshanDev&theme=tokyonight) |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeshanDev&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeshanDev&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SeshanDev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
